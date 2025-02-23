@@ -23,7 +23,6 @@ dependencies:
   - r-ggridges
   - r-pracma
   - r-zoo
-  - r-tint
   
 
 
